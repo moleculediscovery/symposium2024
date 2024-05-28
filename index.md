@@ -18,10 +18,13 @@ Deep learning has had an incredible impact in various fields of science and tech
 				
 ### 14:00 Talk by Johannes Schimunek
 ELLIS Unit Linz and LIT AI Lab, Institute for Machine Learning,  
-Johannes Kepler University Linz, Austria  
+Johannes Kepler University Linz, Austria 
+
 
 **Machine Learning-guided directed protein evolution**  
-[TBA]
+Efficient protein engineering and optimization is essential for development of novel biotechnologies. Obtaining a protein with desired properties implies finding a solution to an optimization problem of large dimensionality. The current state-of-the-art technique for optimization of biological sequences is Directed Evolution (DE). It involves multiple rounds of selection and optionally diversification steps. This procedure imitates the process of natural selection akin to evolutionary algorithms to iteratively refine the desired properties of the sequences in the pool. Recently, machine learning methods have been proposed that intend to augment and speed up this process. These methods attempt to utilize the prior knowledge, usually coming from earlier DE rounds, to suggest the best sequences for further testing. Usually, such setups consist of a) a generative method that suggests new sequences and b) one or multiple scoring functions that assess the activity of the proteins (usually by means of predicting the performance of the sequence in prior selection rounds). We evaluated various such methods in a practical setting, e.g. regression approaches, MBE, and a discretized regression (“robust regression”). We have evaluated these approaches with respect to the AUC and ΔAUC-PR metrics during the optimization of a specific protein of interest. Additionally, we evaluate the benefits of the epistemic uncertainty estimates from the scoring functions, as it is a key element in many efficient exploration techniques. We found that robust regression performs best with noisy and irregularly distributed real world sequencing data from a DE experiment.
+For this kind of data, regression models succumbed to noise and outliers and were found to be unsuitable. We show benefits of alternating between in-vitro DE rounds and in-silico ML-DE rounds to speed up the optimization process and improve the resulting sequences.
+
 
 ### 14:20 Coffee break
 

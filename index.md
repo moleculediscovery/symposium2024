@@ -20,7 +20,7 @@ Deep learning has had an incredible impact in various fields of science and tech
 ELLIS Unit Linz and LIT AI Lab, Institute for Machine Learning,  
 Johannes Kepler University Linz, Austria  
 
-**Machine Learning-guided directed protein evolution**
+**Machine Learning-guided directed protein evolution**  
 [TBA]
 
 ### 14:20 Coffee break

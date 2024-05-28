@@ -1,4 +1,3 @@
-# ELLIS Online Symposium “Machine Learning for Drug Discovery”
 
 This ELLIS Symposium organized by [ELLIS Health](https://ellis.eu/programs/ellis-health) and [ELLIS ML4Molecules](https://ellis.eu/programs/machine-learning-for-molecule-discovery).
 

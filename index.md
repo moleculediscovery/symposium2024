@@ -25,3 +25,6 @@ Johannes Kepler University Linz, Austria
 	Yusuf Hamied Department of Chemistry
 	University of Cambridge, Google DeepMind researcher, United Kingdom
 
+## Program committee
+Karsten Borgwardt and Günter Klambauer
+

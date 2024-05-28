@@ -1,5 +1,5 @@
 
-This ELLIS Symposium organized by [ELLIS Health](https://ellis.eu/programs/ellis-health) and [ELLIS ML4Molecules](https://ellis.eu/programs/machine-learning-for-molecule-discovery).
+This ELLIS Symposium is organized by [ELLIS Health](https://ellis.eu/programs/ellis-health) and [ELLIS ML4Molecules](https://ellis.eu/programs/machine-learning-for-molecule-discovery).
 
 ## Participate
 Date: Tuesday, June 4, 2024  

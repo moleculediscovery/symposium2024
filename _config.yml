@@ -1,6 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: ELLIS SYMPOSIUM on Machine Learning for Drug Discovery by \\ ELLIS Health and ELLIS ML4Molecules
+title: ELLIS SYMPOSIUM on Machine Learning for Drug Discovery by  ELLIS Health and ELLIS ML4Molecules
 description: ELLIS Symposium
 # ELLIS SYMPOSIUM Machine Learning for Drug Discovery

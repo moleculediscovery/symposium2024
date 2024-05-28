@@ -2,9 +2,9 @@
 This ELLIS Symposium organized by [ELLIS Health](https://ellis.eu/programs/ellis-health) and [ELLIS ML4Molecules](https://ellis.eu/programs/machine-learning-for-molecule-discovery).
 
 ## Participate
-Date: Tuesday, June 4, 2024
-Time: 13:00 - 16:00 CEST
-Place: via Zoom (to request meeting details, please send an email to ml4molecules@ml.jku.at)
+Date: Tuesday, June 4, 2024  
+Time: 13:00 - 16:00 CEST  
+Place: via Zoom (to request meeting details, please send an email to ml4molecules@ml.jku.at)  
 
 ## Program
 
@@ -13,12 +13,12 @@ Eindhoven University of Technology, Dept. Biomedical Engineering,
 Institute for Complex Molecular Systems and Eindhoven AI Systems Institute, Eindhoven, Netherlands
 Centre for Living Technologies, Alliance TU/e, WUR, UU, UMC Utrecht, Netherlands.
 
-**Harnessing deep learning for low-data drug discovery: lessons learned and opportunities**
+**Harnessing deep learning for low-data drug discovery: lessons learned and opportunities**  
 Deep learning has had an incredible impact in various fields of science and technology, such as protein structure prediction and organic reaction planning. However, it is known to be particularly effective when large-scale datasets are available. Drug discovery, on the other hand, is usually a low-data endeavour – which limits the potential of ‘out-of-the-box’ deep learning approaches. This talk will reflect on lessons learned in applying deep learning to low-data drug discovery and highlight some successful strategies to address these challenges and discover bioactive molecules.
 				
 ### 14:00 Talk by Johannes Schimunek
-ELLIS Unit Linz and LIT AI Lab, Institute for Machine Learning,
-Johannes Kepler University Linz, Austria
+ELLIS Unit Linz and LIT AI Lab, Institute for Machine Learning,  
+Johannes Kepler University Linz, Austria  
 
 **Machine Learning-guided directed protein evolution**
 [TBA]
@@ -26,8 +26,8 @@ Johannes Kepler University Linz, Austria
 ### 14:20 Coffee break
 
 ### 14:40 Talk by Dr. Carlos Oliver
-Department of Machine Learning and Systems Biology	
-Max Planck Institute of Biochemistry Martinsried, Germany
+Department of Machine Learning and Systems Biology  
+Max Planck Institute of Biochemistry Martinsried, Germany  
 
 **Building datasets and benchmarks for deep learning on protein structures with ProteinShake**
 We present ProteinShake, a Python software package that simplifies dataset creation and model evaluation for deep learning on protein structures. Users can create custom datasets or load an extensive set of pre-processed datasets from biological data repositories such as the Protein Data Bank (PDB) and AlphaFoldDB.

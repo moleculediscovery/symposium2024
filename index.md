@@ -48,5 +48,3 @@ Beyond sequences found in the evolutionary record, technical breakthroughs enabl
 
 ## Program committee
 Karsten Borgwardt and Günter Klambauer  
-
-github pages by lh

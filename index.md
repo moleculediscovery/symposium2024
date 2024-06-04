@@ -38,7 +38,7 @@ Each dataset is associated with prediction tasks and evaluation functions coveri
 
 
 ### 15:00 Keynote by Prof. Bruno Correia
-Laboratory of Protein Design and Immunoengineering
+Laboratory of Protein Design and Immunoengineering  
 Ecole Polytechnique Federale de Lausanne (EPFL)
 
 

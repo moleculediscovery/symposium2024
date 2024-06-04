@@ -37,14 +37,13 @@ We present ProteinShake, a Python software package that simplifies dataset creat
 Each dataset is associated with prediction tasks and evaluation functions covering a broad array of biological challenges. A benchmark on these tasks shows that pretraining almost always improves performance, the optimal data modality (graphs, voxel grids, or point clouds) is task-dependent, and models struggle to generalize to new structures. ProteinShake makes protein structure data easily accessible and comparison among models straightforward, providing challenging benchmark settings with real-world implications.
 
 
-### 15:00 Keynote by Prof. Lucy Colwell
-Yusuf Hamied Department of Chemistry  
-University of Cambridge, Google DeepMind researcher, United Kingdom  
+### 15:00 Keynote by Prof. Bruno Correia
+Laboratory of Protein Design and Immunoengineering
+Ecole Polytechnique Federale de Lausanne (EPFL)
 
-**AI-generated protein function prediction with therapeutic applications**  
-A central challenge in biochemistry is the prediction of the functional properties of a protein from its amino acid sequence, as it can lead to the discovery of new proteins with specific functionality and a better understanding of the functional effect of genomic mutations. Experimental and computational data enable the training and validation of ML models that predict protein function directly from sequence. This talk will present deep learning models that accurately predict functional domains within protein sequences, and large language models that generate textual descriptions of protein sequences, collectively adding millions of annotations to public databases.
-Beyond sequences found in the evolutionary record, technical breakthroughs enable data on the sequence-to-function relationship to be rapidly acquired. However, the cost and latency of wet lab experiments means that we require new methods to find 'hits' (sequences that meet the function requirements of the campaign) in few experimental rounds, where each round contains a large batch of sequence designs. I will discuss model-based optimisation approaches that take advantage of sample inefficient methods to navigate sequence space and identify diverse candidates for experimental evaluation. The potential of these approaches will be illustrated through case studies demonstrating the design and experimental validation of proteins and peptides for therapeutic applications.
 
+**Exploring novel (bio)molecular spaces by design – a dialogue between representation and generation**
+The machine learning tool box has revolutionized our ability to design novel molecular entities (e.g. proteins) well beyond what the natural repertoire has explored. Despite the incredible advances, the de novo generation of functional molecules in biological concepts remains an incredible challenge. In this talk I will present some of the efforts in our group in designing both proteins and small molecules. Particularly emphasizing different modalities of molecular representation and the interplay with generative ML to facilitate the exploration of unimaginably large spaces of possibilities. Importantly, many ML-based approaches for molecular design fall short in terms of generalization and sampling off the learned distribution, I will present some ideas on how representation can help to overcome some of these limitations. Finally, I will present some of the approaches developed in our group to embed function into the designer proteins and how we are suing these components in cellular systems to control the output of these complex biological devices.    
 
 ## Program committee
 Karsten Borgwardt and Günter Klambauer  
